@@ -1,0 +1,6 @@
+{
+  "name": "SHARK TEAM 🦈",
+  "description": "Venha se tornar um tubarão. Aulas particulares de luta.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
